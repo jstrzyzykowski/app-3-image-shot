@@ -1,0 +1,22 @@
+.loader {
+  width: 14rem;
+  height: 14rem;
+  border: 1.6rem solid var(--color-base-light);
+  border-top-color: var(--color-details-light);
+  border-radius: 50%;
+  position: absolute;
+  top: 12rem;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: translateX(-50%) rotate(0);
+  }
+
+  to {
+    transform: translateX(-50%) rotate(360deg);
+  }
+}

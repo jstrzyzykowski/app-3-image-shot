@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 4rem;
+  padding: 0 4rem;
+}
+
+.header__title {
+  margin: 4rem 0;
+  font-size: 6rem;
+  color: var(--color-details-light);
+}

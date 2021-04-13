@@ -1,0 +1,17 @@
+.notFound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.notFound i {
+  font-size: 9rem;
+  margin-bottom: 0.5rem;
+}
+
+.notFound__text {
+  font-size: 2.8rem;
+}
+
