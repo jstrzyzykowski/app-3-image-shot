@@ -25,5 +25,6 @@
 - [x] React Router 
 - [x] React Context 
 - [x] [Flickr API](https://www.flickr.com/services/api/)
+- [x] Axios 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
